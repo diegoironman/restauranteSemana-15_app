@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Clásica",
+        "categoria": "Comida",
+        "precio": 4.5,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza Personal",
+        "categoria": "Comida",
+        "precio": 6.0,
+        "stock": 15
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Jugo Natural",
+        "categoria": "Bebida",
+        "precio": 2.0,
+        "stock": 30
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Pan Enrollado",
+        "categoria": "Panaderia",
+        "precio": 0.25,
+        "stock": 50
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Gaseosa",
+        "categoria": "bebidas",
+        "precio": 0.75,
+        "stock": 50
+    }
+]
